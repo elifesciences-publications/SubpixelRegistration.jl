@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Franconville et al., "Building a functional connectome of the Drosophila central complex". eLife, 2018. http://dx.doi.org/10.7554/eLife.37017
+
+
 # SubpixelRegistration
 
 [![SubpixelRegistration](http://pkg.julialang.org/badges/SubpixelRegistration_0.6.svg)](http://pkg.julialang.org/detail/SubpixelRegistration)
